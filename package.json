@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "curse": "^0.0.1",
     "node": "^23.2.0",
     "pg": "^8.13.1",
     "sequelize": "^6.37.5"
